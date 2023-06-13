@@ -20,6 +20,7 @@ Feature:
       | group  | group_by.sql |
       | java   | Java         |
 
+
   @CLOUD-1571
   Scenario Outline:
   User can search contacts by clicking on the contacts icon and typing its name
