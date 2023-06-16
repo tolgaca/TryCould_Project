@@ -18,6 +18,7 @@ Feature: Dashboard functionality
   Background:
     Given user is logged in
 
+
   @CLOUD-1509
   Scenario Outline: user can see all the modules after hovering over them
     When user hovers over a "<module>" button on top left
